@@ -66,7 +66,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/131B25.png?width=30&height=30" alt="#131B25"></td>
       <td>
-         ?
+         Midnight Ridge
       </td>
       <td>
          Foreground
@@ -78,7 +78,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/D5ECE2.png?width=30&height=30" alt="#D5ECE2"></td>
       <td>
-         ?
+         Morning Mist
       </td>
       <td>
          Selection Background
@@ -90,7 +90,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30" alt="#467196"></td>
       <td>
-         ?
+         Storm Grey
       </td>
       <td>
          Cursor
@@ -139,7 +139,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/E0E2E3.png?width=30&height=30" alt="#E0E2E3"></td>
       <td>
-         ?
+         Moonlit Frost
       </td>
       <td>
          Foreground
@@ -151,7 +151,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/643C59.png?width=30&height=30" alt="#643C59"></td>
       <td>
-         ?
+         Deep Fjord
       </td>
       <td>
          Selection Background
@@ -163,7 +163,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/8DC5E1.png?width=30&height=30" alt="#8DC5E1"></td>
       <td>
-         ?
+         Arctic Cyan
       </td>
       <td>
          Cursor
@@ -212,7 +212,7 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/29000D.png?width=30&height=30" alt="#29000D"></td>
       <td>
-         ?
+         Dark Cherry
       </td>
       <td>
          Foreground
@@ -224,7 +224,7 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/E7CFDF.png?width=30&height=30" alt="#E7CFDF"></td>
       <td>
-         ?
+         Wisteria Mist
       </td>
       <td>
          Selection Background
@@ -236,7 +236,7 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/C55EA5.png?width=30&height=30" alt="#C55EA5"></td>
       <td>
-         ?
+         Rose Garden
       </td>
       <td>
          Cursor
@@ -285,7 +285,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/D7D6D5.png?width=30&height=30" alt="#D7D6D5"></td>
       <td>
-         ?
+         Morning Light
       </td>
       <td>
          Foreground
@@ -297,7 +297,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/453A34.png?width=30&height=30" alt="#453A34"></td>
       <td>
-         ?
+         Evergreen Shade
       </td>
       <td>
          Selection Background
@@ -309,7 +309,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/0B7E63.png?width=30&height=30" alt="#0B7E63"></td>
       <td>
-         ?
+         Jade Moss
       </td>
       <td>
          Cursor
@@ -358,7 +358,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/251B13.png?width=30&height=30" alt="#251B13"></td>
       <td>
-         ?
+         Dark Walnut
       </td>
       <td>
          Foreground
@@ -370,7 +370,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/DFEFCB.png?width=30&height=30" alt="#DFEFCB"></td>
       <td>
-         ?
+         Late Meadow
       </td>
       <td>
          Selection Background
@@ -382,7 +382,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/6B9A24.png?width=30&height=30" alt="#6B9A24"></td>
       <td>
-         ?
+         Harvest Gold
       </td>
       <td>
          Cursor
@@ -431,7 +431,7 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/D0CCCD.png?width=30&height=30" alt="#D0CCCD"></td>
       <td>
-         ?
+         Cloud Veil
       </td>
       <td>
          Foreground
@@ -443,7 +443,7 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/562F2F.png?width=30&height=30" alt="#562F2F"></td>
       <td>
-         ?
+         Terracotta Shade
       </td>
       <td>
          Selection Background
@@ -455,7 +455,7 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/DF6F50.png?width=30&height=30" alt="#DF6F50"></td>
       <td>
-         ?
+         Coral Canyon
       </td>
       <td>
          Cursor
@@ -504,7 +504,7 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/05272C.png?width=30&height=30" alt="#05272C"></td>
       <td>
-         ?
+         Midnight Strait
       </td>
       <td>
          Foreground
@@ -516,7 +516,7 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/BADFDE.png?width=30&height=30" alt="#BADFDE"></td>
       <td>
-         ?
+         Sea Glass
       </td>
       <td>
          Selection Background
@@ -528,7 +528,7 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/42858E.png?width=30&height=30" alt="#42858E"></td>
       <td>
-         ?
+         Ferry Blue
       </td>
       <td>
          Cursor
@@ -577,7 +577,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/D8D3D4.png?width=30&height=30" alt="#D8D3D4"></td>
       <td>
-         ?
+         Pearl Pink
       </td>
       <td>
          Foreground
@@ -589,7 +589,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/5D224D.png?width=30&height=30" alt="#5D224D"></td>
       <td>
-         ?
+         Berry Crush
       </td>
       <td>
          Selection Background
@@ -601,7 +601,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/E17CBF.png?width=30&height=30" alt="#E17CBF"></td>
       <td>
-         ?
+         Dusty Orchid
       </td>
       <td>
          Cursor
@@ -650,7 +650,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/0D2704.png?width=30&height=30" alt="#0D2704"></td>
       <td>
-         ?
+         Forest Ink
       </td>
       <td>
          Foreground
@@ -662,7 +662,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/CADFC2.png?width=30&height=30" alt="#CADFC2"></td>
       <td>
-         ?
+         Palm Shade
       </td>
       <td>
          Selection Background
@@ -674,7 +674,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/4A873F.png?width=30&height=30" alt="#4A873F"></td>
       <td>
-         ?
+         Vivid Leaf
       </td>
       <td>
          Cursor
@@ -723,7 +723,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/DBD7D7.png?width=30&height=30" alt="#DBD7D7"></td>
       <td>
-         ?
+         Ivory Lace
       </td>
       <td>
          Foreground
@@ -735,7 +735,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/722832.png?width=30&height=30" alt="#722832"></td>
       <td>
-         ?
+         Wine Cellar
       </td>
       <td>
          Selection Background
@@ -747,7 +747,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/C38AA4.png?width=30&height=30" alt="#C38AA4"></td>
       <td>
-         ?
+         Montmartre Rose
       </td>
       <td>
          Cursor
@@ -796,7 +796,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/0C172B.png?width=30&height=30" alt="#0C172B"></td>
       <td>
-         ?
+         Midnight Baltic
       </td>
       <td>
          Foreground
@@ -808,7 +808,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/B7C3E3.png?width=30&height=30" alt="#B7C3E3"></td>
       <td>
-         ?
+         Limestone Blue
       </td>
       <td>
          Selection Background
@@ -820,7 +820,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/4D6FA2.png?width=30&height=30" alt="#4D6FA2"></td>
       <td>
-         ?
+         Cobalt Spire
       </td>
       <td>
          Cursor
@@ -869,7 +869,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/D6D6DA.png?width=30&height=30" alt="#D6D6DA"></td>
       <td>
-         ?
+         Streetlight Silver
       </td>
       <td>
          Foreground
@@ -881,7 +881,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/5E3061.png?width=30&height=30" alt="#5E3061"></td>
       <td>
-         ?
+         Purple Alley
       </td>
       <td>
          Selection Background
@@ -893,7 +893,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/939ED3.png?width=30&height=30" alt="#939ED3"></td>
       <td>
-         ?
+         Skyline Blue
       </td>
       <td>
          Cursor
