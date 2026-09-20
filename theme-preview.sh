@@ -281,7 +281,11 @@ case "${1:-}" in
 esac
 
 if [[ "${1:-}" == "--full" ]]; then
+  # the same ending as the menu's "1) Full preview", so a --open window reads exactly like
+  # every screenshot in this repo: the prompt line at the bottom, waiting for Enter
   full_preview
+  printf "Press Enter to return to menu..."
+  read -r _
   exit 0
 fi
 
