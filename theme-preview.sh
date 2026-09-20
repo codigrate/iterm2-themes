@@ -14,6 +14,9 @@
 # This script simulates code-like highlighting with ANSI 0-15 colors,
 # so you can judge how your terminal palette feels in real code blocks.
 
+SCRIPT_PATH="$(cd "$(dirname "$0")" && pwd)/$(basename "$0")"
+THEMES_ROOT="$(cd "$(dirname "$0")" && pwd)"
+
 RESET="\033[0m"
 BOLD="\033[1m"
 DIM="\033[2m"
@@ -155,6 +158,127 @@ run_choice() {
     *) echo "Invalid selection." ;;
   esac
 }
+
+find_theme_file() {
+  # Accepts a theme name (with or without the "Codigrate " prefix / .itermcolors
+  # suffix) or a path, and echoes the matching .itermcolors file path.
+  local query="$1"
+
+  if [[ -f "$query" ]]; then
+    printf "%s\n" "$query"
+    return 0
+  fi
+
+  local base
+  base="$(basename "$query")"
+  base="${base%.itermcolors}"
+
+  find "$THEMES_ROOT/nature" "$THEMES_ROOT/cities" -name "*.itermcolors" 2>/dev/null \
+    | while IFS= read -r f; do
+        local name
+        name="$(basename "$f")"
+        name="${name%.itermcolors}"
+        if [[ "$name" == "$base" || "$name" == "Codigrate $base" || "$name" == *"$base" ]]; then
+          printf "%s\n" "$f"
+        fi
+      done | head -n 1
+}
+
+open_theme() {
+  # Opens an iTerm2 window painted with the preset, sized like every screenshot in this
+  # repo (222x63), and renders the full preview inside it - ready to screenshot (Cmd+Shift+4,
+  # Space, click the window). The preset becomes a Dynamic Profile named after the theme
+  # (~/Library/Application Support/iTerm2/DynamicProfiles/codigrate-preview.json), which
+  # iTerm2 picks up by itself; the file is rewritten for every theme, nothing else changes
+  # in your iTerm2 settings.
+  local file="$1"
+
+  if [[ -z "$file" || ! -f "$file" ]]; then
+    printf "Theme file not found.\n" >&2
+    return 1
+  fi
+  if ! command -v python3 >/dev/null 2>&1; then
+    printf "python3 is needed to build the preview profile (xcode-select --install).\n" >&2
+    return 1
+  fi
+
+  local name dyn
+  name="$(basename "$file")"
+  name="${name%.itermcolors}"
+  dyn="$HOME/Library/Application Support/iTerm2/DynamicProfiles"
+  mkdir -p "$dyn"
+
+  python3 - "$file" "$name" "$THEMES_ROOT" "$SCRIPT_PATH" > "$dyn/codigrate-preview.json" <<'PY'
+import json, plistlib, sys
+file, name, root, script = sys.argv[1:5]
+with open(file, "rb") as f:
+    colors = plistlib.load(f)
+profile = {
+    "Name": name,
+    "Guid": "codigrate-preview-" + name.lower().replace(" ", "-"),
+    "Dynamic Profile Parent Name": "Default",
+    "Columns": 222,
+    "Rows": 63,
+    "Custom Command": "No",
+    "Initial Text": "cd '%s' && clear && bash '%s' --full" % (root, script),
+}
+profile.update(colors)
+print(json.dumps({"Profiles": [profile]}, indent=2))
+PY
+
+  sleep 1.5
+  osascript >/dev/null 2>&1 <<OSA
+tell application "iTerm2"
+  activate
+  create window with profile "$name"
+end tell
+OSA
+}
+
+open_all() {
+  local files=()
+  while IFS= read -r f; do files+=("$f"); done < <(
+    find "$THEMES_ROOT/nature" "$THEMES_ROOT/cities" -name "*.itermcolors" 2>/dev/null | sort
+  )
+
+  if [[ ${#files[@]} -eq 0 ]]; then
+    printf "No .itermcolors files found under %s\n" "$THEMES_ROOT" >&2
+    return 1
+  fi
+
+  printf "Opening %d themes - screenshot each window, then press Enter for the next.\n\n" "${#files[@]}"
+  for f in "${files[@]}"; do
+    local name
+    name="$(basename "$f")"
+    name="${name%.itermcolors}"
+    printf "-> %s\n" "$name"
+    open_theme "$f"
+    printf "   Screenshot the window, then press Enter to continue... "
+    read -r _
+  done
+  printf "\nDone.\n"
+}
+
+usage() {
+  cat <<USAGE
+Codigrate iTerm2 Theme Preview
+
+  bash theme-preview.sh                 the preview menu in this window
+  bash theme-preview.sh --full          render the full preview in this window
+  bash theme-preview.sh --open "<name>" open iTerm2 with a theme + preview (222x63)
+  bash theme-preview.sh --all           step through every theme (for screenshots)
+
+Examples:
+  bash theme-preview.sh --open "Codigrate London"
+  bash theme-preview.sh --open "Tokyo"
+USAGE
+}
+
+case "${1:-}" in
+  --open)  open_theme "$(find_theme_file "${2:-}")"; exit 0 ;;
+  --all)   open_all; exit 0 ;;
+  -h|--help) usage; exit 0 ;;
+esac
 
 if [[ "${1:-}" == "--full" ]]; then
   full_preview
