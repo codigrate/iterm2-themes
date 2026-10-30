@@ -220,6 +220,8 @@ profile = {
     "Columns": 222,
     "Rows": 63,
     "Custom Command": "No",
+    # one colour set: with the parent's separate light/dark colours on, dark mode would show the parent's "(Dark)" palette
+    "Use Separate Colors for Light and Dark Mode": False,
     "Initial Text": "cd '%s' && clear && bash '%s' --full" % (root, script),
 }
 profile.update(colors)
