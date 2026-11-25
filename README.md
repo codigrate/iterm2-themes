@@ -480,7 +480,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=salda&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=salda&platform=iterm2)
 
 ## Description
 
@@ -557,7 +557,7 @@ Inspired by the white shores and turquoise shallows of Lake Salda, this theme pa
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=ocean&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=ocean&platform=iterm2)
 
 ## Description
 
@@ -634,7 +634,7 @@ Inspired by the deep sea and the quiet glow of life far below the surface, this 
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=reynisfjara&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=reynisfjara&platform=iterm2)
 
 ## Description
 
@@ -711,7 +711,7 @@ Inspired by the black sand of Reynisfjara at dusk, where basalt columns rise ove
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=etna&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=etna&platform=iterm2)
 
 ## Description
 
@@ -788,7 +788,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=fuji&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=fuji&platform=iterm2)
 
 ## Description
 
@@ -865,7 +865,7 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=spring&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=spring&platform=iterm2)
 
 ## Description
 
@@ -942,7 +942,7 @@ Inspired by a spring garden in full bloom, from tulip beds and crocus to the fir
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=bioluminescence&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=bioluminescence&platform=iterm2)
 
 ## Description
 
@@ -1457,7 +1457,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=sydney&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=sydney&platform=iterm2)
 
 ## Description
 
@@ -1534,7 +1534,7 @@ Inspired by Sydney Harbour at midday, from the white sails of the Opera House to
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=prague&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=prague&platform=iterm2)
 
 ## Description
 
@@ -1611,7 +1611,7 @@ Inspired by Prague after dark, from the deep blues of the Vltava to the gas lamp
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=vienna&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=vienna&platform=iterm2)
 
 ## Description
 
@@ -1688,7 +1688,7 @@ Inspired by a Viennese evening at the opera, from velvet seats and candlelit box
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=madrid&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=madrid&platform=iterm2)
 
 ## Description
 
@@ -1765,7 +1765,7 @@ Inspired by a Madrid balcony at midday, from sunlit facades and saffron awnings 
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=london&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=london&platform=iterm2)
 
 ## Description
 
@@ -1842,7 +1842,7 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=dublin&platform=iterm2)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=dublin&platform=iterm2)
 
 ## Description
 
